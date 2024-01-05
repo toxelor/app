@@ -19,6 +19,7 @@ multidict==6.0.4
 mysql==0.0.3
 mysql-connector-python==8.2.0
 mysqlclient==2.2.1
+pip==3.10
 protobuf==4.21.12
 pydantic==2.3.0
 pydantic_core==2.6.3
